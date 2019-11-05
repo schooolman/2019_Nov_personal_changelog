@@ -5,3 +5,10 @@ I am commiting to tracking my personal development using this repo. I am plannin
 
 ## Monday, November 4th
 - Morning bicycle ride, 7.92 miles.
+- Evening bicycle ride, 7.73 miles.
+-- Total distance = 15.65.
+- Research Drupal learning paths, found one to start tomorrow from [LevelUP Tuts](https://www.videodrupal.org/channel/leveluptuts)
+- No gym, but had a 3.5 hour scuba class. I'm counting it.
+
+## Tuesday, November 5th
+- Morning bicycle ride, 8.08 miles.

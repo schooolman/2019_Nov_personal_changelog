@@ -12,3 +12,7 @@ I am commiting to tracking my personal development using this repo. I am plannin
 
 ## Tuesday, November 5th
 - Morning bicycle ride, 8.08 miles.
+- Evening bicycle ride, 9.545 Miles
+- Total Distance = 17.625 Miles
+- Gym: 5 x 120ft @ 200lb Sandbag Carry
+- Can't find Atomic Habits tonight, so reading The Subtle Art of Not Giving a fuck. by Mark Manson. First Chapter.

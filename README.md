@@ -16,3 +16,8 @@ I am commiting to tracking my personal development using this repo. I am plannin
 - Total Distance = 17.625 Miles
 - Gym: 5 x 120ft @ 200lb Sandbag Carry
 - Can't find Atomic Habits tonight, so reading The Subtle Art of Not Giving a fuck. by Mark Manson. First Chapter.
+
+## Wednesday, Nov 6th
+- Worked from home today, so I didn't get any cycling miles in 😞
+- Found Atomic Habits though! Began reading that again.
+- No gym tonight, but had my last Scuba lesson, so I'm counting that.

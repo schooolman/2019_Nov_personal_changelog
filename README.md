@@ -21,3 +21,9 @@ I am commiting to tracking my personal development using this repo. I am plannin
 - Worked from home today, so I didn't get any cycling miles in 😞
 - Found Atomic Habits though! Began reading that again.
 - No gym tonight, but had my last Scuba lesson, so I'm counting that.
+
+## Thursday, Nov 7th
+- Morning bicycle ride: 7.95 miles
+- Read a chapter of Atomic Habits
+- Gym: Row 500m max effort X 4
+- Evening bicycle ride: 8.51 miles, a car hit me as well 🙄

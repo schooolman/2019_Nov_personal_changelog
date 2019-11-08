@@ -27,3 +27,8 @@ I am commiting to tracking my personal development using this repo. I am plannin
 - Read a chapter of Atomic Habits
 - Gym: Row 500m max effort X 4
 - Evening bicycle ride: 8.51 miles, a car hit me as well 🙄
+
+## Friday, Nov 8th
+- Morning bicycle ride: 7.62 miles
+- Gym: Crossfit Open 20.5, 40 Muscle Ups, 80 cal row, 120 Wall Ball
+- Using Vue.js with Adobe Experience Manager tutorial, I think I'm going to switch my code learning plan to Vue School

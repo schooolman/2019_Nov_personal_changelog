@@ -32,3 +32,8 @@ I am commiting to tracking my personal development using this repo. I am plannin
 - Morning bicycle ride: 7.62 miles
 - Gym: Crossfit Open 20.5, 40 Muscle Ups, 80 cal row, 120 Wall Ball
 - Using Vue.js with Adobe Experience Manager tutorial, I think I'm going to switch my code learning plan to Vue School
+
+## Saturday, Nov 9th
+- My Birthday!
+- I read Atomic Habits, but also forgot to commit since I had family in town :(
+

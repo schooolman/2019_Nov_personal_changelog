@@ -37,3 +37,10 @@ I am commiting to tracking my personal development using this repo. I am plannin
 - My Birthday!
 - I read Atomic Habits, but also forgot to commit since I had family in town :(
 
+## Sunday, Nov 10th
+- Continued to read Atomic Habits.
+- no bike or gym
+
+## Monday, Nov 11th
+- Reading Atomic Habits, it snowed so no bike ride today.
+

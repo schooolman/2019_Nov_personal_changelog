@@ -44,3 +44,7 @@ I am commiting to tracking my personal development using this repo. I am plannin
 ## Monday, Nov 11th
 - Reading Atomic Habits, it snowed so no bike ride today.
 
+## Tuesday, Nov 12th
+- Completed the Vue.js + Firebase Realtime Database tutorial at www.vueschool.io
+- No cycling today, the realfeel was -15 this morning. I need to pull my snowboarding gear out of the storage room for this type of weather.
+

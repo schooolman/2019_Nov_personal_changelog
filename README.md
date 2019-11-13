@@ -48,3 +48,8 @@ I am commiting to tracking my personal development using this repo. I am plannin
 - Completed the Vue.js + Firebase Realtime Database tutorial at www.vueschool.io
 - No cycling today, the realfeel was -15 this morning. I need to pull my snowboarding gear out of the storage room for this type of weather.
 
+## Wednesday, Nov 11th
+- Still no bike riding because of the weather. The streets are terrible right now. Tomorrow I plan to start again.
+- Started on the Vue.JS master class tutorials.
+- Rest day at the gym, not doing so great for my Fitness this week, but I needed a little recovery time from the CrossFit Open
+

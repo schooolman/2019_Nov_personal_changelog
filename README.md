@@ -53,3 +53,8 @@ I am commiting to tracking my personal development using this repo. I am plannin
 - Started on the Vue.JS master class tutorials.
 - Rest day at the gym, not doing so great for my Fitness this week, but I needed a little recovery time from the CrossFit Open
 
+## Thursday, Nov 12th
+- Morning bicycle ride: 7.97 miles, wooooo! Back at it baby. 18 degrees.
+- Worked through more of the Vue JS Master Class
+- No gym tonight, going to see My Brother, My Brother and Me live!!
+

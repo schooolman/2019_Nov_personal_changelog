@@ -57,4 +57,14 @@ I am commiting to tracking my personal development using this repo. I am plannin
 - Morning bicycle ride: 7.97 miles, wooooo! Back at it baby. 18 degrees.
 - Worked through more of the Vue JS Master Class
 - No gym tonight, going to see My Brother, My Brother and Me live!!
+- Evening ride: 7.42 miles
+
+## Friday, Nov 13th
+- Morning bicycle ride: 8.74 miles
+- Working through the Vue JS Master class at www.vueschool.io
+- evening bicycle ride: 9.55 miles
+
+## Saturday, Nov 14th
+- Morning ride: 11.58 miles
+- Read some Atomic Habits this morning as well
 

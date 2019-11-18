@@ -68,3 +68,8 @@ I am commiting to tracking my personal development using this repo. I am plannin
 - Morning ride: 11.58 miles
 - Read some Atomic Habits this morning as well
 
+## Sunday, Nov 15th
+- Afternoon rides total: 5.82 miles, went to and from Volley ball
+- Played 4 games of volleyball and calling that my gym time.
+- Started working on the data structure for the fitness tracker app I'm going to build using Vue
+

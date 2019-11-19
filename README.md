@@ -77,3 +77,7 @@ I am commiting to tracking my personal development using this repo. I am plannin
 - No cycling today, feeling a little under the weather and want to be rested for my trip to Mexico coming up.
 - Have continued working on the data structure of the app I want to build, and started scaffolding the begining in Vue.js
 - Also continued working through the Vue JS Master class at www.vueschool.io
+
+## Tuesday, Nov 19th
+- Morning bicycle ride: 7.47 miles
+- worked through a section of the Vue master class, will continue later tonight.

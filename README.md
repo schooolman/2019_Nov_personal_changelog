@@ -48,28 +48,32 @@ I am commiting to tracking my personal development using this repo. I am plannin
 - Completed the Vue.js + Firebase Realtime Database tutorial at www.vueschool.io
 - No cycling today, the realfeel was -15 this morning. I need to pull my snowboarding gear out of the storage room for this type of weather.
 
-## Wednesday, Nov 11th
+## Wednesday, Nov 13th
 - Still no bike riding because of the weather. The streets are terrible right now. Tomorrow I plan to start again.
 - Started on the Vue.JS master class tutorials.
 - Rest day at the gym, not doing so great for my Fitness this week, but I needed a little recovery time from the CrossFit Open
 
-## Thursday, Nov 12th
+## Thursday, Nov 14th
 - Morning bicycle ride: 7.97 miles, wooooo! Back at it baby. 18 degrees.
 - Worked through more of the Vue JS Master Class
 - No gym tonight, going to see My Brother, My Brother and Me live!!
 - Evening ride: 7.42 miles
 
-## Friday, Nov 13th
+## Friday, Nov 15th
 - Morning bicycle ride: 8.74 miles
 - Working through the Vue JS Master class at www.vueschool.io
 - evening bicycle ride: 9.55 miles
 
-## Saturday, Nov 14th
+## Saturday, Nov 16th
 - Morning ride: 11.58 miles
 - Read some Atomic Habits this morning as well
 
-## Sunday, Nov 15th
+## Sunday, Nov 17th
 - Afternoon rides total: 5.82 miles, went to and from Volley ball
 - Played 4 games of volleyball and calling that my gym time.
 - Started working on the data structure for the fitness tracker app I'm going to build using Vue
 
+## Monday, Nov 18th
+- No cycling today, feeling a little under the weather and want to be rested for my trip to Mexico coming up.
+- Have continued working on the data structure of the app I want to build, and started scaffolding the begining in Vue.js
+- Also continued working through the Vue JS Master class at www.vueschool.io

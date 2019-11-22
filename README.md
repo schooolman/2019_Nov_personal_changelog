@@ -86,3 +86,8 @@ I am commiting to tracking my personal development using this repo. I am plannin
 ## Wednesday, Nov 20th
 - Morning bicycle ride: 7.66 miles
 - Still working through the Vue masters course
+
+## Thursday, Nov 21st
+- Morning bike ride: 7.8 miles
+- halfway through the vue.js master course
+

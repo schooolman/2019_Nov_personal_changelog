@@ -95,5 +95,9 @@ I am commiting to tracking my personal development using this repo. I am plannin
 ## Friday, Nov 22nd
 - Morning ride: 7.61 miles
 - Continued on vue.js master course
+- Evening ride 10.24 miles
+
+## Saturday, Nov 23rd
+- No bikes, headed out on vacation. Mexico here I come!
 
 

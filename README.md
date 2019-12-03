@@ -99,5 +99,14 @@ I am commiting to tracking my personal development using this repo. I am plannin
 
 ## Saturday, Nov 23rd
 - No bikes, headed out on vacation. Mexico here I come!
+- worked on vue.js on the plane. It killed my computer battery.
+
+## Sunday, Nov 24th - December 2nd
+- Was in Mexico, forgot my computer charger.
+- Read atomic habits on the beach. Was not able to commit 😞
+
+## Tuesday Dec 3rd
+- Worked through some of the vue mastery course.
+- Morning bike ride: 7.81 Miles
 
 

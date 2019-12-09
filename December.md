@@ -18,3 +18,11 @@
 ## Friday, Dec 6th
 - Morning bike ride: 7.4 Miles
 - Gym tonight: Moderate MetCon
+
+## Saturday, Dec 7th
+- Bike ride: 20 miles
+- Masquerade ball at the gym. Dancing counts as working out?
+
+## Monday, Dec 9th
+- Morning Bike ride: 9.2 miles
+- Forgot my helmet and had to turn around

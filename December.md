@@ -26,3 +26,13 @@
 ## Monday, Dec 9th
 - Morning Bike ride: 9.2 miles
 - Forgot my helmet and had to turn around
+- Evening Ride: 7.4 miles
+
+## Tuesday, Dec 10th
+- Bike ride: only ride was to the gym and back: 2.8 miles
+- Did go to the gym though. Heavy Deadlifts. 7x8 @ 245 lbs & Box Jump overs @ 38"
+
+## Wednesday, Dec 11th
+- Morning ride: 8.09 miles (windy and snowing)
+- Completed my self evaluation today, outlined some goals for the following year.
+

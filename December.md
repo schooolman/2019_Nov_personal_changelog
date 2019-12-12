@@ -35,4 +35,8 @@
 ## Wednesday, Dec 11th
 - Morning ride: 8.09 miles (windy and snowing)
 - Completed my self evaluation today, outlined some goals for the following year.
+- Evening ride: 8.04 miles
 
+## Thursday, Dec 12th
+- Morning ride: 8.01
+- Company Holiday Party tonight! WOOO
